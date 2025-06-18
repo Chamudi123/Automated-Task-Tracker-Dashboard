@@ -29,8 +29,7 @@ An Excel-based task tracking system powered by VBA UserForm and a dynamic dashbo
 
 | Task Entry | Dashboard |
 |------------|-----------|
-| ![User Form](Screenshots/User Form.png) | ![Dashboard](Screenshots/Dashboard.PNG) | ![Task List](Screenshots/Task List.png) |
-
+| ![User Form](Screenshots/User%20Form.png) | ![Dashboard](Screenshots/Dashboard.PNG) | ![Task List](Screenshots/Task%20List.png) |
 
 ---
 
