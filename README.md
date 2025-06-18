@@ -7,8 +7,7 @@ An Excel-based task tracking system powered by VBA UserForm and a dynamic dashbo
 ## ✨ Features
 - Add, update, and remove tasks using a custom-built UserForm
 - Dashboard with KPIs: total tasks, completed, pending, overdue
-- Pie chart for status breakdown, bar chart for priority
-- Conditional formatting for task urgency
+- Showcase upcoming deadlines
 
 ---
 
@@ -30,7 +29,8 @@ An Excel-based task tracking system powered by VBA UserForm and a dynamic dashbo
 
 | Task Entry | Dashboard |
 |------------|-----------|
-| ![Form](screenshots/userform_task_entry.png) | ![Dashboard](screenshots/dashboard_view.png) |
+| ![User Form](Screenshots/User Form.png) | ![Dashboard](Screenshots/dashboard.png) | ![Task List](Screenshots/Task List.png) |
+
 
 ---
 
